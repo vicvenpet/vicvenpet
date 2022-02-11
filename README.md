@@ -9,5 +9,5 @@
    ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=vicvenpet&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicvenpet&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
