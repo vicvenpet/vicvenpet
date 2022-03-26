@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.ibb.co/xHPFjZN/74773810-1.png" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/74773810?v=4" />
    <h3 align="center">¡Hey👋! I'm Vicvenpet</h3>
 </p>
 
