@@ -14,7 +14,8 @@
 
    ##
 ##### Support
-<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png" height="50" width="210" alt="paypal" /></a></p>
-<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Patreon_logo_with_wordmark.svg/1280px-Patreon_logo_with_wordmark.svg.png" height="50" width="210" alt="patreon" /></a></p>
+<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png" height="50" width="210" alt="paypal" /></a></p>
+
+<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Patreon_logo_with_wordmark.svg/1280px-Patreon_logo_with_wordmark.svg.png" height="50" width="210" alt="patreon" /></a></p>
   <br>
   
