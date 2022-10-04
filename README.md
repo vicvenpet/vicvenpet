@@ -14,5 +14,6 @@
 
    ##
 ##### Support
-<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="minhaj313" /></a></p>
+<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="paypal" /></a></p>
+<p><a href="https://www.paypal.com/paypalme/vicvenpet"> <img align="left" src="https://assets.stickpng.com/images/62caf5ac4ef3a549dfbbbabc.png" height="50" width="210" alt="patreon" /></a></p>
   <br>
