@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.ibb.co/Bq5ZXYp/image.png" />
-   <h3 align="center">¡Hey👋! I'm Vicvenpet</h3>
+   <h3 align="center">¡Hey👋! I'm Victor (Vicvenpet) Petkov</h3>
 </p>
 
 <p align="center">I'm a <strong>Software Developer</strong><br />¡See here 👇!</p>
