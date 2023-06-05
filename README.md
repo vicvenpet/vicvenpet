@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/vicvenpet/Vicvenpet/main/Dise%C3%B1o%20sin%20t%C3%ADtulo-modified.png" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/vicvenpet/vicvenpet/main/Proyecto%20nuevo%20(4).png" />
    <h3 align="center">¡Hey👋! I'm Victor Petkov</h3>
 </p>
 
