@@ -1,5 +1,4 @@
 <p align="center" width="1000">
-   <img align="center" width="1000" src="" />
    <h3 align="center">¡Hey👋! I'm Victor Petkov</h3>
 </p>
 
