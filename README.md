@@ -1,4 +1,4 @@
-## Viktor P.
+## Viktor, P.
 
 <h1 align="center">
     <a href="https://github.com/vicvenpet" target="_blank">
