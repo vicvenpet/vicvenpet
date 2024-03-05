@@ -22,5 +22,5 @@ You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b>.
 
 #### Copyright
 
-© 2024, vicvenpet, Viktor, P.,Víctor (Vicvenpet) Petkov, VFPT, Inc. VFPT, VFPT Studio, the VFPT logo, Ovra (Ovra Store) and the Ovra logo are trademarks or registered 
+© 2024, vicvenpet, Viktor, P., Víctor (Vicvenpet) Petkov, VFPT, Inc. VFPT, VFPT Studio, the VFPT logo, Ovra (Ovra Store) and the Ovra logo are trademarks or registered 
 trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights reserved.
