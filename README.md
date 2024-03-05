@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-   <b>vicvenpet software developer.<br>
-   <b>VFPT, Inc.</b> developer studio and distributor.
+   <b>Viktor, P. as "vicvenpet" software developer.
 </p>
 
 ---
