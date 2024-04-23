@@ -18,7 +18,7 @@
 
 ### Contact
 
-You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b>.
+You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> and <b><a href="maito:hello@vicvenpet.xyz">hello@vicvenpet.xyz</a></b>
 
 #### Copyright
 
