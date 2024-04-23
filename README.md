@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/vicvenpet" target="_blank">
-        <img height="60%" width="60%" src="https://github.com/vicvenpet/vicvenpet/blob/main/banner.png?raw=true"><br>
+        <img height="60%" width="60%" src="https://github.com/vicvenpet/vicvenpet/blob/main/image.png?raw=true"><br>
     </a>
 </h1>
 
