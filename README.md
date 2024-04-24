@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <b>Víctor, P.</b> as "vicvenpet" software developer.
+   <b>Víctor, P.</b> as "vicvenpet" software and web developer.
 </p>
 
 ---
