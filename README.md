@@ -1,4 +1,4 @@
-## Viktor, P.
+## Víctor, P.
 
 <h1 align="center">
     <a href="https://github.com/vicvenpet" target="_blank">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <b>Viktor, P.</b> as "vicvenpet" software developer.
+   <b>Víctor, P.</b> as "vicvenpet" software developer.
 </p>
 
 ---
@@ -22,5 +22,5 @@ You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> or <b
 
 #### Copyright
 
-© 2022-2024, vicvenpet, Viktor, P., Víctor (Vicvenpet) Petkov, VFPT, Inc. VFPT, VFPT Studio, the VFPT logo, Ovra (Ovra Store) and the Ovra logo are trademarks or registered 
+© 2022-2024, vicvenpet, Víctor (Vicvenpet) Petkov, VFPT, VFPT Studio and the VFPT logo are trademarks or registered 
 trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights reserved.
