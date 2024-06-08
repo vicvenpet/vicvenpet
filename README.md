@@ -27,4 +27,4 @@ trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights re
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vicvenpet/vicvenpet/blob/8acb117e44224246b6de41a399e354d530331f71/background.png?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vicvenpet/vicvenpet/blob/5da266e4bbdf395b551e6a28ffabed4778d97f66/background.jpg?raw=true');]{x0000}$}
