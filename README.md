@@ -24,3 +24,7 @@ You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> or <b
 
 © 2022-2024, vicvenpet, Víctor (Vicvenpet) Petkov, VFPT, VFPT Studio and the VFPT logo are trademarks or registered 
 trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights reserved.
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/miguel07alm/miguel07alm/blob/main/black-hole.jpg?raw=true');]{x0000}$}
