@@ -24,7 +24,3 @@ You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> or <b
 
 © 2022-2024, vicvenpet, Víctor (Vicvenpet) Petkov, VFPT, VFPT Studio and the VFPT logo are trademarks or registered 
 trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights reserved.
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vicvenpet/vicvenpet/blob/5da266e4bbdf395b551e6a28ffabed4778d97f66/background.jpg?raw=true');]{x0000}$}
