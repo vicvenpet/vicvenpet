@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="https://vicvenpet.xyz">Website Contact</a> • <a href="https://github.com/VFPT">Github Organization</a></b>
+    <b><a href="https://vicvenpet.xyz">Website Contact</a> • <a href="https://github.com/webforged">Github Organization</a></b>
 </p>
 
 <p align="center">
