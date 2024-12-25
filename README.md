@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/vicvenpet" target="_blank">
-        <img height="60%" width="60%" src="https://i.ibb.co/N1g8dkR/prp-abs.jpg"><br>
+        <img height="60%" width="60%" src="https://i.ibb.co/GM4WY49/banner-git.png"><br>
     </a>
 </h1>
 
